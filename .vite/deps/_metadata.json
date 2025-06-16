@@ -1,0 +1,145 @@
+{
+  "hash": "b4762cd7",
+  "configHash": "a3048cf3",
+  "lockfileHash": "2bd0ba7b",
+  "browserHash": "e26093c1",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "a3e753c6",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "f2c4a19d",
+      "needsInterop": true
+    },
+    "react-redux": {
+      "src": "../../node_modules/react-redux/dist/react-redux.mjs",
+      "file": "react-redux.js",
+      "fileHash": "78ab51b0",
+      "needsInterop": false
+    },
+    "@reduxjs/toolkit/query/react": {
+      "src": "../../node_modules/@reduxjs/toolkit/dist/query/react/rtk-query-react.modern.mjs",
+      "file": "@reduxjs_toolkit_query_react.js",
+      "fileHash": "2d509ce0",
+      "needsInterop": false
+    },
+    "next-themes": {
+      "src": "../../node_modules/next-themes/dist/index.mjs",
+      "file": "next-themes.js",
+      "fileHash": "a42e976a",
+      "needsInterop": false
+    },
+    "sonner": {
+      "src": "../../node_modules/sonner/dist/index.mjs",
+      "file": "sonner.js",
+      "fileHash": "7352caeb",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "54b83a63",
+      "needsInterop": false
+    },
+    "@reduxjs/toolkit": {
+      "src": "../../node_modules/@reduxjs/toolkit/dist/redux-toolkit.modern.mjs",
+      "file": "@reduxjs_toolkit.js",
+      "fileHash": "c13c1fc4",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "c397a84e",
+      "needsInterop": false
+    },
+    "recharts": {
+      "src": "../../node_modules/recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "5c659dcc",
+      "needsInterop": false
+    },
+    "react-player": {
+      "src": "../../node_modules/react-player/lib/index.js",
+      "file": "react-player.js",
+      "fileHash": "9200c3bd",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "0b3270ab",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "FilePlayer-YPN4A4RD": {
+      "file": "FilePlayer-YPN4A4RD.js"
+    },
+    "Preview-GUNLTBDU": {
+      "file": "Preview-GUNLTBDU.js"
+    },
+    "Facebook-KL33OECA": {
+      "file": "Facebook-KL33OECA.js"
+    },
+    "Streamable-X7BHQMAY": {
+      "file": "Streamable-X7BHQMAY.js"
+    },
+    "Wistia-RJYLJCYJ": {
+      "file": "Wistia-RJYLJCYJ.js"
+    },
+    "Twitch-LLXVB5CF": {
+      "file": "Twitch-LLXVB5CF.js"
+    },
+    "DailyMotion-AP654OHI": {
+      "file": "DailyMotion-AP654OHI.js"
+    },
+    "Mixcloud-F4NBX3MJ": {
+      "file": "Mixcloud-F4NBX3MJ.js"
+    },
+    "Vidyard-ALTIMT34": {
+      "file": "Vidyard-ALTIMT34.js"
+    },
+    "Kaltura-4VEJQNFZ": {
+      "file": "Kaltura-4VEJQNFZ.js"
+    },
+    "chunk-JL2MEAST": {
+      "file": "chunk-JL2MEAST.js"
+    },
+    "YouTube-ZJBLRNJX": {
+      "file": "YouTube-ZJBLRNJX.js"
+    },
+    "SoundCloud-H25JFKGU": {
+      "file": "SoundCloud-H25JFKGU.js"
+    },
+    "Vimeo-TQZ53IO2": {
+      "file": "Vimeo-TQZ53IO2.js"
+    },
+    "Mux-3KAEWBKQ": {
+      "file": "Mux-3KAEWBKQ.js"
+    },
+    "chunk-54QAS3GO": {
+      "file": "chunk-54QAS3GO.js"
+    },
+    "chunk-J4KOQHYD": {
+      "file": "chunk-J4KOQHYD.js"
+    },
+    "chunk-UHINIFCJ": {
+      "file": "chunk-UHINIFCJ.js"
+    },
+    "chunk-W4EHDCLL": {
+      "file": "chunk-W4EHDCLL.js"
+    },
+    "chunk-BXEL5NUQ": {
+      "file": "chunk-BXEL5NUQ.js"
+    },
+    "chunk-EWTE5DHJ": {
+      "file": "chunk-EWTE5DHJ.js"
+    }
+  }
+}
